@@ -1,4 +1,4 @@
-public class TableOf9 {
+public class Lab003_TableOf9 {
     public static void main( String [] arg ) {
         int num = 9;
         System.out.printf("%d * 1 = 9", num);
