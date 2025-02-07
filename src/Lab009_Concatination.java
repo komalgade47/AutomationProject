@@ -1,4 +1,4 @@
-public class Lab009_concatination {
+public class Lab009_Concatination {
     public static void main ( String [] arg )
     {
         int a = 10, b=20;

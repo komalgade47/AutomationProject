@@ -1,4 +1,4 @@
-public class Lab010_explicit_casting {
+public class Lab010_Explicit_casting {
     public static void main( String [] arg)
     {
         byte a= 10;

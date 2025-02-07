@@ -1,4 +1,4 @@
-public class Lab008_comp_assignmntOperators {
+public class Lab008_Comp_assignmntOperators {
     public static void main( String[] arg)
     {
         int age = 10;
